@@ -33,4 +33,4 @@ Testimonial :-
 
 
 Footer Tagline :-
-    Copyright &#xa9; 2023 PeaceBreaker, All Rights Reserved | This Website is Made with love and Affection.
+    Copyright &#xa9; 2023 PeaceBreaker, All Rights Reserved
